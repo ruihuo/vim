@@ -1,4 +1,4 @@
-## Vimconf
+## Vim
 
 
 ### 概述
@@ -12,8 +12,8 @@
 
 
 ```
-git clone https://github.com/buaazp/vimconf --depth=1
-cd vimconf
+git clone https://github.com/ruihuo/vim --depth=1
+cd vim
 cp vimrc ~/.vimrc
 cp -r vim ~/.vim
 
@@ -109,7 +109,7 @@ Mac下的iterm2直接支持tmux，登录服务器后直接用`cmd+t`新建标签
 <s>我把自己的tmux配置文件也放在此包内，需要使用的执行以下命令即可：
 
 ```
-cd vimconf
+cd vim
 cp tmux.conf ~/.tmux.conf
 ```
 </s>
