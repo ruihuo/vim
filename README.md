@@ -1,23 +1,19 @@
-## Vimconf
+## Vim
 
-[@招牌疯子](http://weibo.com/buaazp) 
 
 ### 概述
 
 我自己使用的Vim插件和配置文件，适用于C/C++/Go开发者。
 
-此配置在MAC OS X、Ubuntu、CentOS上都兼容，用起来很顺手。附上一张截图：
+此配置在MAC OS X、Ubuntu、CentOS上都兼容，用起来很顺手。感谢招牌疯子提供
 
-![screenshot](http://ww2.sinaimg.cn/large/4c422e03jw1emhb8kwz0bj212o0olteu.jpg)
-
-在配置中写了大量注释应该足以使你明白相关的功能，若还有疑问可以邮箱联系：`zp@buaa.us`
 
 ### 安装使用
 
 
 ```
-git clone https://github.com/buaazp/vimconf --depth=1
-cd vimconf
+git clone https://github.com/ruihuo/vim --depth=1
+cd vim
 cp vimrc ~/.vimrc
 cp -r vim ~/.vim
 
@@ -113,7 +109,7 @@ Mac下的iterm2直接支持tmux，登录服务器后直接用`cmd+t`新建标签
 <s>我把自己的tmux配置文件也放在此包内，需要使用的执行以下命令即可：
 
 ```
-cd vimconf
+cd vim
 cp tmux.conf ~/.tmux.conf
 ```
 </s>
