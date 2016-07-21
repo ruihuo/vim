@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitSavvy",
+		"Godef",
+		"GoSublime",
+		"MacTerminal",
+		"Material Theme",
+		"Package Control"
+	]
+}
